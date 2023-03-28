@@ -1,7 +1,8 @@
 # Comandos básicos de la línea de comandos de Windows:
 
 - `cd` - Este comando se utiliza para cambiar el directorio actual en la línea de comandos.
-  `dir` - Este comando muestra una lista de archivos y directorios en el directorio actual.
+
+- `dir` - Este comando muestra una lista de archivos y directorios en el directorio actual.
 
   - `dir /a:h`  Muestra los ficheros ocultos en la carpeta actual.
 
